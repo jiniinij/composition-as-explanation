@@ -1,43 +1,32 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
 
-html,
-body
-{
+html, body {
     overflow: hidden;
 }
 
-.webgl
-{
+.webgl {
     position: fixed;
     top: 0;
     left: 0;
     outline: none;
 }
 
-
 button {
-	font-family: Helvetica, sans-serif;
-	font-size: 12pt;
-	text-align: center;
-    position:sticky;
-	/* position:absolute; */
-	/* top: 5rem;
-    left: 5rem; */
-	min-width: 80px;
-	border-radius: 0;
-	z-index: 1;
-    background-color: rgb(60, 60, 60); 
+    font-family: Helvetica, sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    position: sticky;
+    min-width: 80px;
+    border-radius: 0;
+    border: none;
+    z-index: 1;
+    background-color: rgb(60, 60, 60);
     color: rgb(109, 109, 109);
-    box-sizing: content-box;
-    /* width: 12%; */
-    border:0cm;
     padding-left: 0.5%;
     padding-right: 0.5%;
-
 }
 
 button:hover {
@@ -47,7 +36,7 @@ button:hover {
 
 button:active {
     box-shadow:
-    inset -2px -2px 3px rgba(188, 188, 188, 0.6),
-    inset 2px 2px 3px rgba(139, 139, 139, 0.6);
-    background-color: rgb(92, 74, 74); 
-  } 
+        inset -2px -2px 3px rgba(188, 188, 188, 0.6),
+        inset 2px 2px 3px rgba(139, 139, 139, 0.6);
+    background-color: rgb(92, 74, 74);
+}
