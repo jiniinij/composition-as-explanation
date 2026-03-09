@@ -13,7 +13,7 @@ https://composition.digitale-grafik.com
 - OrthographicCamera with OrbitControls
 
 ## Structure
-\`\`\`
+```
 /
 ├── src/
 │   ├── index.html
@@ -29,13 +29,13 @@ https://composition.digitale-grafik.com
 │   └── draco/
 ├── package.json
 └── vite.config.js
-\`\`\`
+```
 
 ## Run locally
-\`\`\`bash
+```bash
 npm install
 npm run dev
-\`\`\`
+```
 
 ## Credits
 Workshop organised by Insa Deist, Joerdis Lyn Behncke — Notes in Studio  
@@ -44,4 +44,3 @@ Performance: Akseli Manner, Kim Kleinert, Fernanda Braun Santos,
 Tigran Ssakyn, Kristina Schuster, Liudmila Savalyeva, Yeji Cheon  
 Document team: Dongseok Lee, Seoin Song, So Jin Park  
 Photography: So Jin Park
-"@ | Out-File -FilePath "readme.md" -Encoding UTF8
