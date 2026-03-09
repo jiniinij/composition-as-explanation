@@ -1,4 +1,3 @@
-@"
 # Composition as Explanation
 
 Interactive 3D web experience documenting the workshop *Composition as Explanation*.  
