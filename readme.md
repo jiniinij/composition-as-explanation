@@ -37,6 +37,9 @@ npm install
 npm run dev
 ```
 
+## Role
+Concept Planning, UX/UI Design, 3D Modeling (Blender), Three.js 3D Web Development, Spatial Audio System Design, Frontend Implementation
+
 ## Credits
 Workshop organised by Insa Deist, Joerdis Lyn Behncke — Notes in Studio  
 Christoph Knoth, Konrad Renner — Digitale Grafik Klasse  
